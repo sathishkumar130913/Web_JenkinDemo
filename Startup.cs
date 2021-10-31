@@ -13,6 +13,7 @@ namespace Web_JenkinDemo
     public class Startup
     {
      //addded comments 
+        //addeed from git hub
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
