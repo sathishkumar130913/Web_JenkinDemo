@@ -12,7 +12,7 @@ namespace Web_JenkinDemo
 {
     public class Startup
     {
-     //addded comments 
+     //addded comments from VS
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
