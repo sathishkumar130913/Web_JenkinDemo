@@ -15,6 +15,7 @@ namespace Web_JenkinDemo
      //addded comments 
        //addded commets from git
       //add it more from vs local
+      //test
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
