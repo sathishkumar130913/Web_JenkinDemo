@@ -13,7 +13,7 @@ namespace Web_JenkinDemo
     public class Startup
     {
      //addded comments 
-        //addded commets from git
+       //addded commets from git
       //add it more from vs local
         public Startup(IConfiguration configuration)
         {
